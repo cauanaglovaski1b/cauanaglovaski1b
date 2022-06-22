@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @cauanaglovaski1b
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+•Olá me chamo cauanaglovaski1b
+•Meu e-mail é cauana.glovaski@escola.pr.gov.br
+•Eu estou interessada em aprender e programar novas linguagens
+•Eu estou aprendendo a programar recentemente a linguagem de Java script e Scratch
 
 <!---
-cauanaglovaski1b/cauanaglovaski1b is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+cauanaglovaski1b/cauanaglovaski1b
